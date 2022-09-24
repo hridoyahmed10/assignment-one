@@ -1,0 +1,151 @@
+.head img {
+   width: 100%;
+   height: 50%;
+    
+}
+.header{
+    position: absolute;
+}
+ .h1{
+    text-align: center;
+    padding-left:27%;
+    padding-top: 25%;
+    font-size: 1.5em;
+    font-family: sans-serif;
+    color:rgb(255, 255, 255);
+}
+.h4{
+    text-align: center;
+    padding-left: 25%;
+    color: beige;
+}
+.a{
+   margin-left:60%;
+   text-decoration: none;
+   background-color: red;
+   font-weight: bold;
+   color: white;
+   padding: 5px;
+   border-radius: 3px;
+}
+.section h1{
+    text-align: center;
+    margin-top:110px;
+
+}
+.section h4{
+    text-align: center;
+    padding-left:15%;
+    padding-right: 15%;
+
+}
+.money{
+    display: flex;
+    margin: 5%;
+}
+.taka{
+    margin:2%;
+    width: 20%;
+    border: 1px solid rgba(128, 128, 128, 0.3);
+    background-color: rgba(96, 94, 94, 0.369);
+    text-align: center;
+}
+.color{
+    border: 1px solid red;
+    color:rgba(255, 0, 0, 0.361);
+}
+.A{
+   text-decoration: none;
+   margin-left:45%;
+   background-color: red;
+   font-weight: bold;
+   color: white;
+   padding: 5px;
+   border-radius: 3px;
+}
+.Others{
+    margin:0px 0px 30px 0px;
+    padding-bottom: 10px;
+    padding-left:40%;
+    border-bottom:2px solid rgba(128, 128, 128, 0.376);
+}
+
+.plan{
+    text-align: center;
+    padding: 10px;
+   
+}
+.plan-images img{
+    width:50px;
+}
+.plans{
+    display: flex;
+    margin:5%;
+}
+.plan-images{
+    width:100%;
+    margin:2%;
+    text-decoration: justify;
+    padding:15px 10px 10px 10px;
+    background-color:rgba(221, 220, 220, 0.814);
+}
+.colors{
+    background-color: rgba(91, 91, 91, 0.588);
+    color:aliceblue;
+}
+.plan-images h3{
+   text-align:left;
+}
+.my-plan{
+    text-align:center;
+}
+.middle{
+    display: flex;
+    margin:5%;
+    padding-bottom: 25px;
+}
+.help{
+    width:100%;
+    padding:15px;
+}
+.help img{
+    width:100%;
+}
+.join{
+    text-decoration: none;
+    background-color: red;
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+}
+.mid{
+    display:flex;
+    margin:5%;
+}
+
+.top{
+    padding-top: 65px;
+}
+
+.subscribe{
+    text-align: center;
+    margin: 0% 17% 0% 17%;
+}
+.email{
+    text-align: center;
+    padding:5%;
+    background-color:rgb(244, 215, 143);
+    margin: 0% 17% 4% 17%;
+}
+#email{
+   padding:10px;
+   background-color:rgba(128, 128, 128, 0.596);
+   color: beige;
+}
+footer{
+    text-align:center; 
+    padding:20px;
+    background-color:black;
+    color:rgb(182, 181, 181);
+}
